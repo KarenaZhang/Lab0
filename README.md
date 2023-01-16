@@ -13,41 +13,29 @@ I get familiar with the three ways to compile a program, learn the basics of run
 
 ## 2 Screenshots
 
-### Part 1
+### create a project in my IDE
 
-I create a "Hello World" Java program with my text editor(bbedit)
-![](./assets/README-1673824621361.png)
-Use the javac command to compile the text file to a .class file
-![](./assets/README-1673824864762.png)
-run the application using the java command.
-![](./assets/README-1673825070213.png)
+![](./assets/README-1673832043186.png)
 
-### Part 2
+### add Book.java and Person.java to my project
 
-I use a search engine locate 2 cloud compilers to create a "Hello World" application in each.
-![](./assets/README-1673764527045.png)
-![](./assets/README-1673764947012.png)
+![](./assets/README-1673832166107.png)
 
-### Part 3
+### add the PersonTest.java to my project and verify that all the PersonTests test cases pass.
 
-I installed the IntelliJ, and create a project, in this project create a Hello world application.
-![](./assets/README-1673764497308.png)
+![](./assets/README-1673832436289.png)
 
-### Part 4
+### view the level of coverage PersonTests currently offers.
 
-Java Tutorial for Beginners
+![](./assets/README-1673833244520.png)
 
-https://www.youtube.com/watch?v=eIrMbAQSU34
-This is a popular video of Java tutorial for Beginners in Youtube, in this video I will learn enough Java basic knowledge.
+### create a JUnit test class for the Book class and all the public methods of the Book class work as expected.
 
-[Coursera](https://www.coursera.org/)
-This is another popular platform where I can find a lot of resources to learn Java, and it provides some learning resources from tech companies like Google, and top universities like Harvard.
+![](./assets/README-1673833579174.png)
 
-[Udemy](https://www.udemy.com/course/introduction-to-java-programming/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-2J1ScM4a9cl0FJWniwG0Uw&utm_medium=udemyads&utm_source=aff-campaign)
-I love this website because it is a good website to learn Java and coding online. it provides a lot of free courses like Java and programming.
+### checking the level of coverage
 
-[Codecademy](https://www.codecademy.com/learn/learn-java?periods=year&utm_source=pepperjam&utm_medium=affiliate&utm_term=214453&clickId=4248314851&pj_creativeid=8-12462&pj_publisherid=214453)
-It provides an IDE that I can not only code but also can check my program by debugging it.
+![](./assets/README-1673833778162.png)
 
 ## 3 Extension
 
