@@ -1,10 +1,17 @@
+/*******
+ Name: Keke Zhang
+ Assignment: Lab 0
+ Date: 14/Jan/2023
+ Notes:Person
+ *******/
+
 /**
  * This class represents a person The person has a first name, last name and a year of birth.
  */
-class Person {
-  private String firstName;
-  private String lastName;
-  private int yearOfBirth;
+public class Person {
+  final private String firstName;
+  final private String lastName;
+  final private int yearOfBirth;
 
   /**
    * Constructs a Person object and initializes it to the given first name, last name and year of

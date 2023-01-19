@@ -1,10 +1,17 @@
+/*******
+ Name: Keke Zhang
+ Assignment: Lab 0
+ Date: 14/Jan/2023
+ Notes:Book
+ *******/
+
 /**
  * This class represents a book. A book has a title, an author and a price.
  */
 public class Book {
-  private String title;
-  private Person author;
-  private float price;
+  final private String title;
+  final private Person author;
+  final private float price;
 
   /**
    * Construct a Book object that has the provided title, author and  price.

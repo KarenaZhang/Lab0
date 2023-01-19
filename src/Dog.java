@@ -7,13 +7,13 @@
 
 
 /**
- * This class represents a dog. A dog has a breed, an name, a color and age.
+ * This class represents a dog. A dog has a breed, a name, a color and age.
  */
 public class Dog {
-    private String breed;
-    private String name;
-    private String color;
-    private int age;
+    final private String breed;
+    final private String name;
+    final private String color;
+    final private int age;
 
     /**
      * Construct a Dog object that has the provided breed, name, color and age.
